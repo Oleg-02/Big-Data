@@ -1,0 +1,8 @@
+ipython-sql
+sqlalchemy
+numpy
+matplotlib
+pandas
+pyspark
+psutil
+memory_profiler
